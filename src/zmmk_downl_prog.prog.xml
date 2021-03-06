@@ -11,9 +11,141 @@
    </PROGDIR>
    <TPOOL>
     <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Backup/Restore program source code with texts</ENTRY>
+     <LENGTH>90</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>DIR</KEY>
+     <ENTRY>File Download Options (File Selection)</ENTRY>
+     <LENGTH>76</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>FIL</KEY>
+     <ENTRY>File Options</ENTRY>
+     <LENGTH>22</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>FNA</KEY>
+     <ENTRY>Enter filename below (under File Options)</ENTRY>
+     <LENGTH>82</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>H01</KEY>
+     <ENTRY>Prog Name</ENTRY>
+     <LENGTH>19</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>H03</KEY>
+     <ENTRY>Program Description</ENTRY>
+     <LENGTH>29</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>SNG</KEY>
+     <ENTRY>Upload a single file</ENTRY>
+     <LENGTH>40</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>UDL</KEY>
+     <ENTRY>Upload to SAP/Download from SAP</ENTRY>
+     <LENGTH>62</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>UPL</KEY>
+     <ENTRY>File Upload Options</ENTRY>
+     <LENGTH>29</LENGTH>
+    </item>
+    <item>
      <ID>R</ID>
      <ENTRY>Download programs</ENTRY>
      <LENGTH>17</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>P_PATH</KEY>
+     <ENTRY>Path to save programs to</ENTRY>
+     <LENGTH>32</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_DOS</KEY>
+     <ENTRY>Files on local computer</ENTRY>
+     <LENGTH>31</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_DOWN</KEY>
+     <ENTRY>Download Programs</ENTRY>
+     <LENGTH>25</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_FILE</KEY>
+     <ENTRY>Upload a single file</ENTRY>
+     <LENGTH>28</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_LIST</KEY>
+     <ENTRY>Select program(s) from a list</ENTRY>
+     <LENGTH>37</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_UNIX</KEY>
+     <ENTRY>Files on remote computer</ENTRY>
+     <LENGTH>32</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>RB_UP</KEY>
+     <ENTRY>Upload Programs to SAP</ENTRY>
+     <LENGTH>30</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_CDAT</KEY>
+     <ENTRY>Date Created</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_CNAM</KEY>
+     <ENTRY>Created by UserID</ENTRY>
+     <LENGTH>25</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_NAME</KEY>
+     <ENTRY>Program Name</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_SUBC</KEY>
+     <ENTRY>Program Type</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_UDAT</KEY>
+     <ENTRY>Date Changed</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_UNAM</KEY>
+     <ENTRY>Last Changed by UserID</ENTRY>
+     <LENGTH>30</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
